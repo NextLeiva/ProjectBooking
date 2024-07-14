@@ -1,7 +1,5 @@
 # ProjectBooking
 
-# PorjectBooking
-
 Este documento detalla el plan de pruebas para la automatización de la aplicación móvil de Booking.com. 
 El objetivo es asegurar que las funcionalidades críticas del flujo de reserva de alojamiento funcionen 
 correctamente después de cada actualización de la aplicación![image](https://github.com/user-attachments/assets/83dcbd6c-aae9-4b96-b730-4dfcff323a80)
