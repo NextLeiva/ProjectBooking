@@ -48,8 +48,3 @@ Joel Leiva(https://www.linkedin.com/in/joel-armando-l-7aa263124/)
 
 
 
-
-
-## Conéctate conmigo
-Joel Leiva(https://www.linkedin.com/in/joel-armando-l-7aa263124/)
-
