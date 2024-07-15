@@ -34,31 +34,8 @@ Instrucciones para que otros desarrolladores contribuyan al proyecto.
 Indica la licencia bajo la cual se distribuye el proyecto.
 
 
-## Tabla de Contenidos
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Ejemplos](#ejemplos)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
-## Instalación
-
-Instrucciones paso a paso sobre cómo instalar y configurar el proyecto.
-
-## Uso
-
-Explicación detallada de cómo usar el proyecto. Incluye ejemplos de código si es necesario.
-
-## Ejemplos
-
-Muestra ejemplos adicionales o casos de uso específicos del proyecto.
 
 ## Conéctate conmigo
-[¡Sígueme en LinkedIn!](https://www.linkedin.com/in/tu-perfil)
+[¡Sígueme en LinkedIn!]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/joel-armando-l-7aa263124/))
 
-Instrucciones para que otros desarrolladores contribuyan al proyecto.
-
-## Licencia
-
-Indica la licencia bajo la cual se distribuye el proyecto.
