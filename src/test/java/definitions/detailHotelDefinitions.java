@@ -13,7 +13,7 @@ public class detailHotelDefinitions {
     }
 
 
-    @And("se selecciono la habitacion en la vista de detalle de Hotel")
+    @And("^se selecciono la habitacion en la vista de detalle de Hotel$")
     public void seSeleccionoLaHabitacionEnLaVistaDeDetalleDeHotel() {
         detailHotel.seleccionarBtnSelectRooms();
         detailHotel.seleccionarBtnSelectChouse();

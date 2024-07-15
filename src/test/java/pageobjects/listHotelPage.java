@@ -17,7 +17,7 @@ public class listHotelPage {
         PageFactory.initElements(new AppiumFieldDecorator(driver), this);
         wait = new WebDriverWait(driver, 30);
     }
-    @AndroidFindBy(xpath = "//android.widget.TextView[@text='Los Aticos B&B with Coworking']")
+    @AndroidFindBy(xpath = "//android.widget.TextView[@text='Baños del Inca Premium Hotel']")
     protected static AndroidElement txtNombreHotel;
 
     public void seleccionarNombreHotel(){

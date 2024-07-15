@@ -12,14 +12,18 @@ Feature:
     And se selecciona la habitacion para las personas
     And se selecciona el hotel en la vista del listados de hoteles
     And se selecciono la habitacion en la vista de detalle de Hotel
-
-
-
+    And ingreso mis datos personale en la vista de Formulario
+      | Campo              | Valor                  |
+      | Nombre             | Juan                   |
+      | Apellido           | Pérez                  |
+      | Correo electrónico | juan.perez@example.com |
+      | Pais               | Peru                   |
+      | Teléfono           | 123456789              |
 
 
     Examples:[HAPPY PATH]
-      | destino | fechaInicio    | fechaFin       |
-      | Cusco   | 01 August 2024 | 03 August 2024 |
+      | destino   |
+      | Cajamarca |
 
 
 
