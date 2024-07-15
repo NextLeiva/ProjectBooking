@@ -37,5 +37,5 @@ Indica la licencia bajo la cual se distribuye el proyecto.
 
 
 ## Conéctate conmigo
-[¡Sígueme en LinkedIn!]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/joel-armando-l-7aa263124/)
+Joel Leiva(https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/joel-armando-l-7aa263124/)
 
