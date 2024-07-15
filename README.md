@@ -5,13 +5,16 @@ Proyecto de Automatización Mobile se utiliza Cucumber,Gherkin,Maven,Java y Appi
 EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/joel-armando-l-7aa263124/) para mejorar el desarrollo en pruebas avanzadas de mobile automation.
 
 
+![Joel Leiva](https://github-readme-stats.vercel.app/api?username=NextLeiva&show_icons=true&theme=dark)
+
+
+
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Ejemplos](#ejemplos)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Lenguajes & Frameworks](#Lenguajes & Frameworks)
+- [Descarga el proyecto desde GitHub](#Descarga el proyecto desde GitHub)
+- [Conéctate conmigo](#Conéctate conmigo)
 
 ## Instalación
 - Java 11
@@ -32,24 +35,17 @@ Este proyecto utiliza los siguientes lenguajes y frameworks:
 - Page Object Model (POM): Como el patrón de diseño.
 - Maven como herramienta de compilación.
 
-## Uso
+## Descarga el proyecto desde GitHub
 
-Descarga el proyecto desde GitHub
-- (HTTPS): (https://github.com/NextLeiva/ProjectBooking)
-- (SSH): 
+- (HTTPS): https://github.com/NextLeiva/ProjectBooking
+- (SSH): git@github.com:NextLeiva/ProjectBooking.git
 - Descargar: Descárgalo como archivo Zip y extráelo
 
-## Ejemplos
+## Conéctate conmigo
+Joel Leiva(https://www.linkedin.com/in/joel-armando-l-7aa263124/)
 
-Muestra ejemplos adicionales o casos de uso específicos del proyecto.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NextLeiva&hide_progress=true)
 
-## Contribución
-
-Instrucciones para que otros desarrolladores contribuyan al proyecto.
-
-## Licencia
-
-Indica la licencia bajo la cual se distribuye el proyecto.
 
 
 
