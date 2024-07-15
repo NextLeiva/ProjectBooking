@@ -28,6 +28,13 @@ public class formularioPage {
     protected static AndroidElement txtCountry;
     @AndroidFindBy(xpath = "(//android.widget.EditText[@resource-id='com.booking:id/bui_input_container_content'])[5]")
     protected static AndroidElement txtMobileFhone;
+    @AndroidFindBy(xpath = "//android.widget.RadioButton[@resource-id='com.booking:id/business_purpose_leisure']")
+    protected static AndroidElement rdLeisure;
+    @AndroidFindBy(xpath = "//android.widget.Button[@resource-id='com.booking:id/action_button']")
+    protected static AndroidElement btnNextStep;
+
+    @AndroidFindBy(xpath = "//android.widget.Button[@resource-id='com.booking:id/action_button']")
+    protected static AndroidElement btnFinaltStep;
 
     public void ingresarNombre(String nombre) {
         wait.until(ExpectedConditions.visibilityOf(txtFirstName));
@@ -45,17 +52,26 @@ public class formularioPage {
         txtEmailAddress.sendKeys(email);
     }
     public void ingresarPais(String pais) {
-        wait.until(ExpectedConditions.visibilityOf(txtLastname));
-        txtFirstName.clear();
-        txtFirstName.click();
-        txtLastname.sendKeys(pais);
-        txtFirstName.click();
+        wait.until(ExpectedConditions.visibilityOf(txtCountry));
+        txtCountry.clear();
+        txtCountry.click();
+        txtCountry.sendKeys(pais);
+        txtCountry.click();
     }
     public void ingresarTelefono(String telefono) {
-        wait.until(ExpectedConditions.visibilityOf(txtEmailAddress));
-        txtFirstName.click();
-        txtEmailAddress.sendKeys(telefono);
+        wait.until(ExpectedConditions.visibilityOf(txtMobileFhone));
+        txtMobileFhone.click();
+        txtMobileFhone.sendKeys(telefono);
 
+    }
+    public void seleccionarRdLeisure(){
+        rdLeisure.click();
+    }
+    public void clicBtnNextStep(){
+        btnNextStep.click();
+    }
+    public void clicBtnFinalStep(){
+        btnFinaltStep.click();
     }
 
 

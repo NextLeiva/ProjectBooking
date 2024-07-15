@@ -14,6 +14,7 @@ EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/jo
 - [Instalación](#instalación)
 - [Lenguajes & Frameworks](#Lenguajes & Frameworks)
 - [Descarga el proyecto desde GitHub](#Descarga el proyecto desde GitHub)
+- [Configuracion de entorno de prueba](#Configuracion de entorno de prueba)
 - [Conéctate conmigo](#Conéctate conmigo)
 
 ## Instalación
@@ -40,6 +41,38 @@ Este proyecto utiliza los siguientes lenguajes y frameworks:
 - (HTTPS): https://github.com/NextLeiva/ProjectBooking
 - (SSH): git@github.com:NextLeiva/ProjectBooking.git
 - Descargar: Descárgalo como archivo Zip y extráelo
+
+## Configuracion de entorno de prueba
+
+- Configurar las variables de entorno( Java , Maven y Android Studio)
+- Configurar el dispositivo movil
+
+Ingresar el comando adb devices
+```
+\Users\Joel: adb devices
+List of devices attached
+emulator-5554	device
+```
+Configurar el Appium Inspector:
+
+```
+{
+  "platformName": "Android",
+  "appium:deviceName": "emulador",
+  "appium:platformVersion": "10.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.booking",
+  "appium:appActivity": "com.booking.startup.HomeActivity"
+}
+```
+Configurar Appium Server GUI:
+
+```
+{
+  HOST: 127.0.0.1
+  PORT: 4724
+}
+```
 
 ## Conéctate conmigo
 Joel Leiva(https://www.linkedin.com/in/joel-armando-l-7aa263124/)

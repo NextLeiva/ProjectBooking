@@ -28,7 +28,7 @@ public class Hooks {
         capabilities.setCapability("appPackage", "com.booking");
         capabilities.setCapability("appActivity", "com.booking.startup.HomeActivity");
         //capabilities.setCapability(MobileCapabilityType.APP, "/Users/joel/Documents/Automatizacion/ProjectBooking/src/test/resources/app/booking-com-32-9.apk");
-        //capabilities.setCapability("autoGrantPermissions", true);
+        capabilities.setCapability("autoGrantPermissions", true);
         //capabilities.setCapability("appium:ensureWebviewsHavePages", true);
 
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
@@ -36,6 +36,7 @@ public class Hooks {
 
         // Aquí se elimina el flag SECURE de la ventana actual
         //driver.executeScript("mobile: shell", ImmutableMap.of("command", "wm", "args", Arrays.asList("clearflags", "secure")));
+
 
 
     }

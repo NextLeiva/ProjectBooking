@@ -32,22 +32,22 @@ public class searchPage {
         wait = new WebDriverWait(driver, 30);
     }
 
-    @AndroidFindBy(xpath = "//android.widget.ImageButton[@content-desc=\"Navigate up\"]")
+    @AndroidFindBy(xpath = "//android.widget.ImageButton[@content-desc='Navigate up']")
     protected static AndroidElement btnCerrar;
 
-    @AndroidFindBy(xpath = "//androidx.recyclerview.widget.RecyclerView[@resource-id=\"com.booking:id/facet_index_section_search_header\"]/android.widget.LinearLayout[1]")
+    @AndroidFindBy(xpath = "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.booking:id/facet_index_section_search_header']/android.widget.LinearLayout[1]")
     protected static AndroidElement btnTipoServicio;
-    @AndroidFindBy(xpath = "//android.widget.LinearLayout[@resource-id=\"com.booking:id/facet_search_box_accommodation_destination\"]")
+    @AndroidFindBy(xpath = "//android.widget.LinearLayout[@resource-id='com.booking:id/facet_search_box_accommodation_destination']")
     protected static AndroidElement searchDestination;
     @AndroidFindBy(id = "com.booking:id/facet_with_bui_free_search_booking_header_toolbar_content")
     protected static AndroidElement txtDestino;
-    @AndroidFindBy(xpath = "(//android.view.ViewGroup[@class=\"android.view.ViewGroup\"])[2]")
+    @AndroidFindBy(xpath = "(//android.view.ViewGroup[@class='android.view.ViewGroup'])[2]")
     protected static AndroidElement lblDestino;
 
 
     @AndroidFindBy(id = "com.booking:id/facet_search_box_accommodation_dates")
     protected static AndroidElement searchFecha;
-    @AndroidFindBy(xpath = "//android.widget.FrameLayout[@resource-id=\"com.booking:id/design_bottom_sheet\"]/android.widget.LinearLayout")
+    @AndroidFindBy(xpath = "//android.widget.FrameLayout[@resource-id='com.booking:id/design_bottom_sheet']/android.widget.LinearLayout")
     protected static AndroidElement popupMoth;
 
 

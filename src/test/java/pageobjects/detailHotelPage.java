@@ -24,7 +24,7 @@ public class detailHotelPage {
     @AndroidFindBy (id = "com.booking:id/rooms_item_select_layout")
     protected static AndroidElement btnSelectChouse;
 
-    @AndroidFindBy (xpath = "//android.widget.Button[@resource-id=\"com.booking:id/main_action\"]")
+    @AndroidFindBy (xpath = "//android.widget.Button[@resource-id='com.booking:id/main_action']")
     protected static AndroidElement btnReserveChouce;
 
 
