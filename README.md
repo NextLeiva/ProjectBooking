@@ -4,7 +4,7 @@ Proyecto de Automatización Mobile se utiliza Cucumber,Gherkin,Maven,Java y Appi
 
 EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/joel-armando-l-7aa263124/) para mejorar el desarrollo en pruebas avanzadas de mobile automation.
 
-## Datos Personales
+# Datos Personales
 
 Nombre : Joel Leiva Collazos
 Pais: Peru
