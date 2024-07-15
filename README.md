@@ -1,8 +1,8 @@
 # ProjectBooking
 
-Este documento detalla el plan de pruebas para la automatización de la aplicación móvil de Booking.com. 
-El objetivo es asegurar que las funcionalidades críticas del flujo de reserva de alojamiento funcionen 
-correctamente después de cada actualización de la aplicación
+Proyecto de Automatización Mobile se utiliza Cucumber,Gherkin,Maven,Java y Appium para la creación de un framework de automatización que permita probar el APK Booking
+
+EL proyecto ha sido desarrollado por Joel Leiva para mejorar el desarrollo en pruebas avanzadas de mobile automation.
 
 
 ## Tabla de Contenidos
@@ -54,7 +54,8 @@ Explicación detallada de cómo usar el proyecto. Incluye ejemplos de código si
 
 Muestra ejemplos adicionales o casos de uso específicos del proyecto.
 
-## Contribución
+## Conéctate conmigo
+[¡Sígueme en LinkedIn!](https://www.linkedin.com/in/tu-perfil)
 
 Instrucciones para que otros desarrolladores contribuyan al proyecto.
 
