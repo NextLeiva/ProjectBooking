@@ -4,11 +4,6 @@ Proyecto de Automatización Mobile se utiliza Cucumber,Gherkin,Maven,Java y Appi
 
 EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/joel-armando-l-7aa263124/) para mejorar el desarrollo en pruebas avanzadas de mobile automation.
 
-# Datos Personales
-
-Nombre : Joel Leiva Collazos
-Pais: Peru
-Linkedin: https://www.linkedin.com/in/joel-armando-l-7aa263124/
 
 ## Tabla de Contenidos
 
@@ -19,8 +14,23 @@ Linkedin: https://www.linkedin.com/in/joel-armando-l-7aa263124/
 - [Licencia](#licencia)
 
 ## Instalación
+- Java 11
+- Appium
+- Appium Inspector
+- Intellij IDEA
+- Maven
 
 Instrucciones paso a paso sobre cómo instalar y configurar el proyecto.
+
+## Lenguajes & Frameworks
+Este proyecto utiliza los siguientes lenguajes y frameworks:
+
+
+- Appium: Como framework para probar y validar aplicaciones web nativas, híbridas y móviles.
+- Cucumber: Como software de testing BDD que permite elaborar pruebas a partir de AC.
+- Java 11: Como lenguaje de programación.
+- Page Object Model (POM): Como el patrón de diseño.
+- Maven como herramienta de compilación.
 
 ## Uso
 
