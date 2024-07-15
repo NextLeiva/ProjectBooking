@@ -34,7 +34,10 @@ Este proyecto utiliza los siguientes lenguajes y frameworks:
 
 ## Uso
 
-Explicación detallada de cómo usar el proyecto. Incluye ejemplos de código si es necesario.
+Descarga el proyecto desde GitHub
+- (HTTPS): (https://github.com/NextLeiva/ProjectBooking)
+- (SSH): 
+- Descargar: Descárgalo como archivo Zip y extráelo
 
 ## Ejemplos
 
